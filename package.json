@@ -1,7 +1,9 @@
 {
   "name": "fork-pull--in-git-project",
   "version": "1.0.0",
-  "source": ["src/index.html"],
+  "source": [
+    "src/index.html"
+  ],
   "description": "",
   "main": "index.js",
   "scripts": {
